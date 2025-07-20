@@ -2,7 +2,7 @@
 
 A powerful Streamlit-based data analysis and visualization project that explores India's Lok Sabha election data. It allows users to interact with data on candidates, constituencies, parties, voter turnout, and gender-wise participation. The app also integrates Google's Gemini API to enable AI-powered data querying and insights.
 
-![Banner](teacher2.png)
+![teacher2.png](https://github.com/sonusinha1707/Lok_Sabha_Election_Analysis/blob/main/banner.png)
 
 ---
 
