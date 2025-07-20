@@ -1,0 +1,22 @@
+# Ignore Python virtual environment
+venv/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.log
+
+# Streamlit settings
+.streamlit/
+.devcontainer/
+cache/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Environment variables
+.env

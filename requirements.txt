@@ -1,0 +1,11 @@
+matplotlib
+plotly
+seaborn
+geopandas
+folium
+streamlit_folium
+requests
+streamlit
+pandas
+google-generativeai
+Pillow
