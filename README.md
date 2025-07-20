@@ -299,4 +299,4 @@ t3.to_csv("Table_3.csv")
 To access our interactive dashboard and explore the data-driven insights, click on the given link below. 
 This will take you directly to the Streamlit platform, where you can interact with our dashboard and analyze the data in detail.
 
-Dashboard link: (https://lok-sabha-election-analysis.streamlit.app/)
+Dashboard link: ([https://lok-sabha-election-analysis.streamlit.app/](https://loksabhaelectionanalysis.streamlit.app/))
