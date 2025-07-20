@@ -205,7 +205,7 @@ with st.sidebar:
             st.write("Made with Gemini pro ")
 
 
-        st.write("<div>Developed by - <span style=\"color: cyan; font-size: 24px; font-weight: 600;\">Anjani Nandan</span></div>",unsafe_allow_html=True)
+        st.write("<div>Developed by - <span style=\"color: cyan; font-size: 24px; font-weight: 600;\">Sonu Sinha</span></div>",unsafe_allow_html=True)
         # st.write("<div>Developed by - <span style=\"color: cyan; font-size: 24px; font-weight: 600;\">Jaishree Yadav</span></div>",unsafe_allow_html=True)
 
 # Define a function to format numbers
