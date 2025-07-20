@@ -103,7 +103,7 @@ streamlit run dashboard.py
 ## 🌐 Deploy on Streamlit Cloud
 
 1. Push to your GitHub repo
-2. Go to (https://loksabhaelectionanalysis.streamlit.app/)
+2. Go to [loksabhaelectionanalysis.streamlit.app](https://loksabhaelectionanalysis.streamlit.app/)
 3. Deploy your repo with `dashboard.py` as the entry point
 4. Add your Gemini API key in the **Secrets Manager**
 
